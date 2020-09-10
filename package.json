@@ -1,0 +1,13 @@
+{
+  "name": "gulp-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxiangsai/gulp-deploy.git",
+  "author": "maxiangsai <maxiangsai@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-load-plugins": "^2.0.4",
+    "gulp-ssh": "^0.7.0"
+  }
+}
