@@ -1,7 +1,7 @@
 {
   "name": "gulp-deploy",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "https://github.com/maxiangsai/gulp-deploy.git",
   "author": "maxiangsai <maxiangsai@163.com>",
   "license": "MIT",
